@@ -3,14 +3,14 @@ name: Generate Snake
 on:
   schedule:
     # every 24 hours
-    - cron: "0 0 */24 * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
       - master
 
 jobs:
-  build:    
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
