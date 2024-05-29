@@ -17,7 +17,7 @@ I welcome contributions to my projects! If you have suggestions, improvements, o
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
 
-<div style="border-left:1px solid black;height:100px;"></div>
+***
 
 Thank you for visiting my GitHub profile. I look forward to connecting and collaborating with you!
 
