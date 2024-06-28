@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I am Akilesh A S, a passionate Machine Learning En
 
 ## Contribution
 
-I welcome contributions to my projects! If you have suggestions, improvements, or ideas, feel free to open an issue or submit a pull request. Let's work together to make our projects better.
+I welcome contributions to my projects! If you have suggestions, improvements, or ideas, feel free to open an issue or submit a pull request.
+
+Let's work together to make our projects better.
 
 1. Fork the repository.
 2. Create your feature branch (`git checkout -b feature/YourFeature`).
