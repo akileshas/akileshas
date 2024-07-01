@@ -28,4 +28,4 @@ Thank you for visiting my GitHub profile. I look forward to connecting and colla
 
 Happy coding! 🚀
 
-Happy Deep Learning 🤖
+Happy Deep Learning! 🤖
