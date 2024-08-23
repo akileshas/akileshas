@@ -5,8 +5,11 @@ class MachineLearningEngineer:
     def __init__(self):
         self.name = "Akilesh A S"
         self.entertainment = "Ricing my Arch Linux"
-        self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing", "Reinforcement Learning"]
-        self.tools = ["Python", "Tensorflow", "Keras", "Scikit-learn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "OpenCV", "NLTK", "Spacy", "Gensim", "Pytorch", "Fastai"]
+        self.interests = ["Machine Learning", "Deep Learning", "Computer Vision", \
+                          "Natural Language Processing", "Reinforcement Learning"]
+        self.tools = ["Python", "Tensorflow", "Keras", "Scikit-learn", "Pandas", "Numpy", \
+                      "Matplotlib", "Seaborn", "Plotly", "OpenCV", "NLTK", "Spacy", \
+                      "Gensim", "Pytorch", "Fastai"]
         self.current_phase = "Learning and Exploring"
         self.email = "akilesh.ml.engineer@gmail.com"
 
