@@ -1,1 +1,1 @@
-#### Just a guy who get fun with playing with larger data and models.
+#### I like playing with computers and data.
