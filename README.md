@@ -1,1 +1,1 @@
-#### I like to play with computers and data. nothing more. 😑
+#### i like to play with computers and data. nothing more. 😑
