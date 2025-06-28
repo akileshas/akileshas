@@ -1,1 +1,7 @@
-#### $_ I like to hack on computers and data. `#EOF` 😑
+```bash
+#!/bin/sh
+
+echo ">> booting mind ..."
+echo ">> affinity: {system, data} ∈ /dev/brain"
+echo "#EOF 😑"
+```
