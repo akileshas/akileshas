@@ -1,7 +1,7 @@
 ```bash
-#!/bin/sh
+#!/bin/bash
 
-echo ">> booting mind ..."
+echo ">> boot mind ..."
 echo ">> affinity: {system, data} ∈ /dev/brain"
 echo "#EOF 😑"
 ```
